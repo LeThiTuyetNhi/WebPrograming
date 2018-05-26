@@ -1,0 +1,24 @@
+@CHARSET "ISO-8859-1";
+body, html {
+    height: 100%;
+    font-family: "Inconsolata", sans-serif;
+}
+.bgimg {
+    background-position: center;
+    background-size: cover;
+    min-height: 73.3%;
+    background-image: url(bg.jpg);
+}
+.menu {
+    display: none;
+}
+.newsletter_bg{
+	padding:100px 200px;
+}
+.avt_member{
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin-right:15px;
+	border-radius: 50%;
+}
